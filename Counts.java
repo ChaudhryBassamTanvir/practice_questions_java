@@ -6,7 +6,7 @@ public class Counts {
         
 Scanner sc = new Scanner(System.in);
 
-    ArrayList<Integer> dynamicArray = new ArrayList<>(); // Initial capacity of 10
+// Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered. 
 
 System.out.println("Enter the amount till where you want to enter numbers ");
 
